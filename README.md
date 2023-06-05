@@ -1,7 +1,6 @@
 👋 Hi, I’m @cybeerboy
 
 👀 I’m interested in:
-
 - Web development
 - Software engineering
 - Cybersecurity
@@ -10,15 +9,13 @@
 - Agile methodologies
 - IoT (Internet of Things)
 - Open-source projects
--
-🌱 I’m currently learning:
 
+🌱 I’m currently learning:
 - AI development
 - Embeddings Data development
 - Data science and analytics
 
 💞️ I’m looking to collaborate on:
-
 - Open-source projects related to web development
 - Creating innovative software solutions
 - Building scalable and secure applications
